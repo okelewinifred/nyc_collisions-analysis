@@ -124,15 +124,9 @@ This project analyses NYC traffic collision data from 2021 to 2023 to identify:
    git clone https://github.com/okelewinifred/nyc-collisions-analysis.git
    ```
 
-2. Open the dataset:
+2. Open the dataset/dashboard:
    ```
    NYC_Collisions.xlsx
-   ```
-
-3. Open the dashboard:
-   ```
-   nyc_collisions_dashboard.pbix
-   ```
 
 ---
 
